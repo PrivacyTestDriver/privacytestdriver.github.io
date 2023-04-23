@@ -33,11 +33,12 @@ copyright_url: "https://privacytestdriver.com"
 
 # twitter_username: jekyllrb
 # github_username:  jekyll
-
+repository: PrivacyTestDriver/blog
 
 # Build settings
 # theme: minima
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 minimal_mistakes_skin: "air" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
