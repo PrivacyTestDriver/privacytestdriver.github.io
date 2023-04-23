@@ -1,0 +1,10 @@
+
+main:
+  - title: "Home"
+    url: "https://privacytestdriver.com/"
+  - title: "About"
+    url: "https://privacytestdriver.com/about.html"
+  - title: "Services"
+    url: "https://privacytestdriver.com/index.html#services"
+  - title: "Blog"
+    url: /posts/

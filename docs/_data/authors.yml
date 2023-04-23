@@ -1,0 +1,34 @@
+# /_data/authors.yml
+
+Raspoutine:
+  name        : "Raspoutine"
+  bio         : "Always doing something interesting at the wrong places"
+  avatar      : "/assets/images/avatars/raspoutine.png"
+#  links:
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:billyrick@rick.com"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://thewhip.com"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/extravagantman"
+mauricio:
+  name: Mauricio Tavares
+  avatar: /assets/images/avatars/Chapeau2-sm.jpg
+  bio: "Creator of shiny things"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://somethingofdoom.com"
+
+valdez:
+  name: Valdez Ladd
+  avatar: /assets/images/avatars/Valdez_150.png
+  bio: "Oracle"
+
+kim:
+  name: Kim Green
+  avatar: /assets/images/avatars/Kim_150.png
+  bio: "Synergist"
