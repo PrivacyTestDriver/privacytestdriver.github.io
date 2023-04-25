@@ -18,12 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+encoding: UTF-8
+
 title: Recent Privacy Crashes
 # subtitle: We provide privacy training customized for you
 email: info@privacytestdriver.com
 description: >- # this means to ignore newlines until "baseurl:"
   When (lack of) use of privacy goes terribly wrong
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://privacycrashes.privacytestdriver.com/" # the base hostname & protocol for your site, e.g. http://example.com
 # logo: "assets/images/avatars/PTD_167x300.png"
 logo: "assets/images/avatars/Head_Default.png"
