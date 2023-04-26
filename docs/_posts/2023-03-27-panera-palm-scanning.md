@@ -8,7 +8,7 @@ categories:
   - blog
 header:
   overlay_image: /assets/images/2023/PalmVeins-sm.png
-  caption: "Photo credit: Mauricio Tavares, Privacy test Driver"
+  caption: "Photo credit: Mauricio Tavares, Privacy Test Driver"
 excerpt: "Is not having to use your wallet worth surrendering your biometric data?"
 ---
 
