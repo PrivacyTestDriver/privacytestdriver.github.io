@@ -26,10 +26,7 @@ Currently OpenAI, the parent company of ChatGPT, is in talks with the Italian
 Government to allow citizens of that European nation access this product.  
 Italy requires OpenAI to improve transparency, allow users to view and 
 delete their data, and implement additional safeguards to protect minors. 
-These proposed privacy controls by Italy's government  
-should be applied internationally.  
-This must be addressed to protect ChatGPT user's 
-privacy and intellectual property.   
+These proposed privacy controls by Italy's government  should be applied internationally.  This must be addressed to protect ChatGPT user's privacy and intellectual property.   
 
 What are the main ChatGPT-related  privacy threats?    
 
