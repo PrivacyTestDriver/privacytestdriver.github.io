@@ -14,9 +14,9 @@ supplied by other organizations (be them open source or not) that are put
 together in whatever form you specified. This chain is as strong as its
 weakest link.
 
-To make this a bit more real, let's talk about a famous software
+To make this a bit more real, let's talk about 
+the most commonly used web content manager,
 [Wordpress](https://wordpress.com/)
-is possibly the most commonly used web content manager.
 
 There is a running joke about how insecure it is given the mind-boglling
 number of vulnerabilities related to it.
