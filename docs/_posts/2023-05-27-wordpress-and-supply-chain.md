@@ -16,7 +16,7 @@ weakest link.
 
 To make this a bit more real, let's talk about 
 the most commonly used web content manager,
-[Wordpress](https://wordpress.com/)
+[WordPress](https://wordpress.com/)
 
 There is a running joke about how insecure it is given the mind-boglling
 number of vulnerabilities related to it.
@@ -54,10 +54,11 @@ compromise the website, they can go after any confidential information --
 user data, passwords, credit card info -- available in the website.
 
 This vulnerability has been known since
-[January](https://www.pluginvulnerabilities.com/2023/01/31/hacker-might-be-exploiting-unfixed-plugin-vulnerability-that-wpscan-patchstack-and-wordfence-all-claimed-was-fixed/), and has been patched by the developer, but many sites have
-yet to apply the patch.
+[January of 2023](https://www.pluginvulnerabilities.com/2023/01/31/hacker-might-be-exploiting-unfixed-plugin-vulnerability-that-wpscan-patchstack-and-wordfence-all-claimed-was-fixed/), and has been mmediately patched by the developer 
+(good job!), but many sites have yet to apply the patch.
 
 If we go back to our supply chain, the original weak link was the plugin.
-That was solved. The next weak link is to ensure the patched plugin is used
+That was solved in January. The next weak link is to ensure the patched plugin is used
 in the website. Until that is done, this chain is still very weak.
 
+Maintain your supply chain!
