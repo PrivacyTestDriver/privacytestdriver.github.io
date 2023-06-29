@@ -23,7 +23,7 @@ number of vulnerabilities related to it.
 Thing is, WordPress by itself is actually quite secure.
 The source of vulnerabilites is the plugins, and the top two reasons are
 
-- There are a lot of them.
+- There is a lot of them.
 Some are well written and maintained, others not quite.
 People building websites look for plugins based on which task they are
 trying to solve and feedback. This feedback most of the time is about how
@@ -40,7 +40,9 @@ has a vulnerability and then will start looking for unpatched sites.
 
 Let's use a real life example to show how bad that can be:
 A few days ago we learned that the
-WordPress cookie consent plugin named Beautiful Cookie Consent Banner, which
+WordPress cookie consent plugin named 
+[Beautiful Cookie Consent Banner](https://wordpress.org/plugins/beautiful-and-responsive-cookie-consent/), 
+which
 is currently deployed in more than 40,000 locations (you may have a
 single deployment being used by multiple websites),
 is
@@ -54,7 +56,8 @@ compromise the website, they can go after any confidential information --
 user data, passwords, credit card info -- available in the website.
 
 This vulnerability has been known since
-[January of 2023](https://www.pluginvulnerabilities.com/2023/01/31/hacker-might-be-exploiting-unfixed-plugin-vulnerability-that-wpscan-patchstack-and-wordfence-all-claimed-was-fixed/), and has been mmediately patched by the developer 
+[January of 2023](https://www.pluginvulnerabilities.com/2023/01/31/hacker-might-be-exploiting-unfixed-plugin-vulnerability-that-wpscan-patchstack-and-wordfence-all-claimed-was-fixed/), 
+and has been immediately patched by the developer 
 (good job!), but many sites have yet to apply the patch.
 
 If we go back to our supply chain, the original weak link was the plugin.

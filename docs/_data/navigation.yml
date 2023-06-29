@@ -5,6 +5,9 @@ main:
   - title: "About"
     url: "https://privacytestdriver.com/about.html"
   - title: "Services"
-    url: "https://privacytestdriver.com/index.html#services"
+  - title: "Services"
+    url: "https://privacytestdriver.com/services.html"
+  - title: "Resources"
+    url: "https://privacytestdriver.com/resources.html"
   - title: "Blog"
     url: /posts/
