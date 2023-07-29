@@ -24,7 +24,7 @@ title: Recent Privacy Crashes
 # subtitle: We provide privacy training customized for you
 email: info@privacytestdriver.com
 description: >- # this means to ignore newlines until "baseurl:"
-#  When (lack of) use of privacy goes terribly wrong
+#  When the (lack of) use of privacy goes terribly wrong
 url: "https://privacycrashes.privacytestdriver.com/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 # logo: "assets/images/avatars/PTD_167x300.png"
