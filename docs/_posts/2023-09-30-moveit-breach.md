@@ -29,8 +29,8 @@ vulnerability that affected its MOVEit Transfer and MOVEit Cloud products, and
 issued a patch to address that. This vulnerability had a severity rating of 
 9.8 out of 10. Further patches were issues on 9 June and 15 June.
 
-Why has these patches not been deployed by the affected organizations which
-run MOVEit locally (on premises)?
+Why have these patches not been deployed by the affected organizations 
+running MOVEit locally (on premises)?
 Unfortunately, some companies have strict patch policies such as only allowing
 updates once every quarter or only when they do not affect the deadlines of
 the income-generating -- marketing, sales, product development -- groups.
