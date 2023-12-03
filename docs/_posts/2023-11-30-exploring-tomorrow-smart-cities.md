@@ -9,7 +9,8 @@ categories:
 ---
 Now picture this: a city where technology meets urban planning, crafting a world that's not only efficient and sustainable but also tunes into what its residents need. This isn't just a dream anymore. I recently had the chance to witness this firsthand at the Connected Triangle Summit in Raleigh, NC, on November 9th.
 
-This event wasn't just another conference; it was a vibrant gathering of minds â-- urban planners, tech gurus, policymakers, and visionaries, all brainstorming on how to weave technology into our cityscapes.
+This event wasn't just another conference; it was a vibrant gathering of minds 
+-- urban planners, tech gurus, policymakers, and visionaries, all brainstorming on how to weave technology into our cityscapes.
 
 # A Hotbed of Innovative Thoughts
 
