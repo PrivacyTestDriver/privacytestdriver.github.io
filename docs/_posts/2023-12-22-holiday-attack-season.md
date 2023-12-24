@@ -6,6 +6,9 @@ tags:
   - privacy
 categories:
   - blog
+header:
+  overlay_image: /assets/images/2023/holidaySky.jpg
+  caption: "Photo credit: Mauricio Tavares, Privacy Test Driver"
 ---
 
 Holiday Season is right upon us and the New Year is just around the corner. 
@@ -48,7 +51,8 @@ scams are on the rise.
 # What can you do?
 
 *Vigilance is the Price of Freedom*, and that means *you* being vigilante.
-Don't rely the protection of your (and that of your customers and employees) 
+Don't rely the protection of your (and that of your customers, employees,
+and loved ones) 
 information on some magic product or service.
 You need to understand what you need to protect and how much you need to share
 before deciding on how to do that.
