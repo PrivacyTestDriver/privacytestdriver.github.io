@@ -53,7 +53,9 @@ information on some magic product or service.
 You need to understand what you need to protect and how much you need to share
 before deciding on how to do that.
 There are a lot of resources out there.
-Companies like ours offer training on business/personal
+Companies like 
+[ours](https://privacytestdriver.com/)
+offer training on business/personal
 data security and data privacy.
 The Federal Trade Commission puts out 
 [consumer alerts](https://consumer.ftc.gov/consumer-alerts).
