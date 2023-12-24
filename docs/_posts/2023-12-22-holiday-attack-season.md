@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "It is The Holiday Attacks Season!"
+title:  "It's The Holiday Attacks Season"
 author: mauricio
 tags:
   - privacy
@@ -38,7 +38,7 @@ pretending to be a loved one in need or a misplaced package.
 [sacrifice privacy for convenience](https://privacycrashes.privacytestdriver.com/blog/2023/03/27/panera-palm-scanning.html)
 
 For those of you who are business owners, this is not a time to relax your
-defenses.
+defenses:
 
 - The MOVEit-related data breaches, which 
 [we talked about before](https://privacycrashes.privacytestdriver.com/blog/2023/09/30/moveit-breach.html),
@@ -63,9 +63,10 @@ offer training on business/personal
 data security and data privacy.
 The Federal Trade Commission puts out 
 [consumer alerts](https://consumer.ftc.gov/consumer-alerts).
-We run a site discussing the different types of 
+We run a blog discussing the different types of 
 [phishing attacks](https://phishphillet.com/) we have observed and how to
 identify them.  
 
-You are not alone but you must do your part.
+You are not alone but *you must do your part*.
 Make learning about data security and data privacy a goal for next year.
+And stick to it!
