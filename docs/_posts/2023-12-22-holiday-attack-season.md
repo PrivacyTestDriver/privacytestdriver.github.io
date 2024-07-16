@@ -18,8 +18,8 @@ the overworked (and often unappreciated)
 delivery people from both the Post Office and the UPS/Federal
 Express/DHL will deliver them in time.
 
-This is also a time to be with (or contact) friends, reflect upon what you 
-have achieved, and plan for the 2024.
+This is also a time to be with (or contact) loved ones, reflect upon what you 
+have achieved, and plan for the upcoming year.
 
 With all this travelling, buying, and communicating, it is also a great
 opportunity for those with coal in their hearts to use the Festive Season
