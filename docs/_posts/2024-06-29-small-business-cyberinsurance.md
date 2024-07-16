@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Cyberinurance and Small Business: when does it make sense?"
+title:  "Cyberinsurance and Small Business: when does it make sense?"
 author: valdez
 tags:
   - privacy
